@@ -2,10 +2,10 @@ module.exports = {
   databases: {
     mysql: {
       enable: false,
-      host: "127.0.0.1",
-      user: "root",
-      password: "1234_Kassar",
-      database: "ShabebTest",
+      host: "were db is hosted",
+      user: "username of db",
+      password: "password here",
+      database: "db name",
       multipleStatements: true,
     },
   },
